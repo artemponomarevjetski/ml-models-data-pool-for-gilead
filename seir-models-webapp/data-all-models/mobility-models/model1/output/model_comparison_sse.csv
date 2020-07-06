@@ -1,0 +1,225 @@
+,state,model,n points,max deaths,sse,p1,p2,p3,p4,p5
+0,Delaware,gamma,24,159,386.0,1.03,12.0,128.49,1147.93,
+1,Delaware,mob adj gamma,24,159,243.0,1.09,4.0,1192454.65,12625632.68,-7.96
+2,Delaware,skewed gaussian,24,159,183.0,11.03,-5.57,26.76,18.11,
+3,Delaware,mob adj skewed gaussian,24,159,168.0,5.62,15.06,24.34,-21.51,-8.26
+4,Alaska,gamma,69,12,4.0,0.96,1.0,5.01,2.06,
+5,Alaska,mob adj gamma,69,12,4.0,0.91,63.0,6.17,6.56,-1.59
+6,Alaska,skewed gaussian,69,12,5.0,1.63,-9.0,66.01,0.12,
+7,Alaska,mob adj skewed gaussian,69,12,4.0,0.38,-3876.67,8.0,7.08,-11.29
+8,Georgia,gamma,82,2451,34096.0,1.6,-0.33,55.51,4271.67,
+9,Georgia,mob adj gamma,82,2451,34038.0,1.46,-0.31,94.48,6325.5,-0.97
+10,Georgia,skewed gaussian,82,2451,33775.0,43.96,17.34,5.81,102.63,
+11,Georgia,mob adj skewed gaussian,82,2451,33718.0,40.15,6422.54,5.24,38727.57,-0.92
+12,Kansas,gamma,81,245,486.0,1.91,1.83,20.68,264.16,
+13,Kansas,mob adj gamma,81,245,481.0,2.05,1.66,17.05,203.76,1.37
+14,Kansas,skewed gaussian,81,245,483.0,6.54,8.16,7.34,39.12,
+15,Kansas,mob adj skewed gaussian,81,245,480.0,6.04,-7.12,7.42,-35.42,0.93
+16,Kentucky,gamma,78,499,1906.0,1.15,2.0,77.68,879.98,
+17,Kentucky,mob adj gamma,78,499,1880.0,1.14,2.0,102.4,1219.29,-0.92
+18,Kentucky,skewed gaussian,78,499,1903.0,9.75,28275.61,3.0,69.35,
+19,Kentucky,mob adj skewed gaussian,78,499,1867.0,10.21,70987.82,2.76,14654.83,-1.41
+20,Ohio,gamma,74,2559,32163.0,7.67,-35.88,10.63,3095.5,
+21,Ohio,mob adj gamma,74,2559,32125.0,6.56,-32.05,12.36,3445.05,-0.28
+22,Ohio,skewed gaussian,74,2559,32174.0,71.14,2.46,12.4,44.19,
+23,Ohio,mob adj skewed gaussian,74,2559,32133.0,72.86,2.71,12.36,48.57,-0.29
+24,Oklahoma,gamma,75,360,888.0,1.95,-6.21,19.99,381.39,
+25,Oklahoma,mob adj gamma,75,360,872.0,1.45,-5.66,43.81,586.51,-1.89
+26,Oklahoma,skewed gaussian,75,360,890.0,10.13,4.16,-3.0,38.84,
+27,Oklahoma,mob adj skewed gaussian,75,360,872.0,8.69,15.17,-2.03,61.96,-1.96
+28,South Carolina,gamma,78,600,3277.0,2.57,-6.91,28.52,878.18,
+29,South Carolina,mob adj gamma,78,600,6174.0,0.94,68.0,4.84,17.42,19.21
+30,South Carolina,skewed gaussian,78,600,3261.0,12.99,5.34,10.66,68.6,
+31,South Carolina,mob adj skewed gaussian,78,600,3209.0,14.58,-41138.29,77.0,46.21,-2.49
+32,Tennessee,gamma,74,474,1888.0,44.69,-16787.54,583.24,1589735.57,
+33,Tennessee,mob adj gamma,74,474,2997.0,0.73,38.0,21.01,-59.28,-47.56
+34,Tennessee,skewed gaussian,74,474,,,,,,
+35,Tennessee,mob adj skewed gaussian,74,474,3686.0,9.51,478724.46,60.0,15.18,0.98
+36,Vermont,gamma,75,55,57.0,1.88,7.89,7.5,32.2,
+37,Vermont,mob adj gamma,75,55,58.0,1.15,14.0,5.7,45.38,4.63
+38,Vermont,skewed gaussian,75,55,47.0,1.61,-1858.12,30.89,10610.09,
+39,Vermont,mob adj skewed gaussian,75,55,45.0,1.6,-1.9666439358264028e+16,32.0,294.76,0.47
+40,New York,gamma,82,30825,2168564.0,2.32,-1.01,11.16,29752.64,
+41,New York,mob adj gamma,82,30825,2147835.0,2.49,-0.99,10.25,37160.02,1.09
+42,New York,skewed gaussian,82,30825,2228580.0,1207.51,5.16,4.27,24.48,
+43,New York,mob adj skewed gaussian,82,30825,2177946.0,1772.42,-5.34,5.22,-23.47,1.56
+44,Wyoming,gamma,50,18,6.0,0.8,20.0,14.72,13.04,
+45,Wyoming,mob adj gamma,50,18,6.0,1.01,21.0,5.1,-1.03,-72.66
+46,Wyoming,skewed gaussian,50,18,8.0,1.87,7.45,20.81,2.75,
+47,Wyoming,mob adj skewed gaussian,50,18,6.0,0.58,11176296.16,20.0,8.56,6.76
+48,Virginia,gamma,80,1546,8483.0,8.67,-26.13,8.61,1754.35,
+49,Virginia,mob adj gamma,80,1546,8455.0,6.25,-20.42,12.19,2023.2,-1.47
+50,Virginia,skewed gaussian,80,1546,8516.0,47.15,-2.36,20.39,-37.46,
+51,Virginia,mob adj skewed gaussian,80,1546,8494.0,46.22,2.39,21.36,42.65,-1.31
+52,Pennsylvania,gamma,76,6215,287239.0,5.56,-12.76,9.58,6695.7,
+53,Pennsylvania,mob adj gamma,76,6215,287084.0,5.14,-11.82,10.53,6864.09,-0.42
+54,Pennsylvania,skewed gaussian,76,6215,287547.0,203.2,-2.63,14.68,-32.97,
+55,Pennsylvania,mob adj skewed gaussian,76,6215,287426.0,197.73,2.71,14.81,34.54,-0.37
+56,Texas,gamma,77,1984,10323.0,2.12,-5.56,33.68,2949.3,
+57,Texas,mob adj gamma,77,1984,10189.0,1.88,-1.7,29.86,2997.34,1.65
+58,Texas,skewed gaussian,77,1984,10378.0,45.67,3.53,6.75,61.23,
+59,Texas,mob adj skewed gaussian,77,1984,10142.0,55.94,8.07,5.06,51.9,1.97
+60,North Carolina,gamma,69,1132,6875.0,1.66,-3.16,49.6,2049.19,
+61,North Carolina,mob adj gamma,69,1132,16646.0,1.62,39.27,20.91,1224.77,-2.59
+62,North Carolina,skewed gaussian,69,1132,6839.0,22.85,16.16,3.25,94.79,
+63,North Carolina,mob adj skewed gaussian,69,1132,6675.0,29.65,-54.33,67.63,51.07,-2.28
+64,Florida,gamma,86,2931,32414.0,1.82,4.7,39.6,4419.41,
+65,Florida,mob adj gamma,86,2931,32179.0,1.52,3.61,92.64,4228.67,-4.4
+66,Florida,skewed gaussian,86,2931,32242.0,57.88,10.97,12.48,76.86,
+67,Florida,mob adj skewed gaussian,86,2931,31294.0,13.87,30795.92,85.0,-70.9,-16.09
+68,Northern Mariana Islands,gamma,0,0,,,,,,
+69,Northern Mariana Islands,mob adj gamma,0,0,,,,,,
+70,Northern Mariana Islands,skewed gaussian,0,0,,,,,,
+71,Northern Mariana Islands,mob adj skewed gaussian,0,0,,,,,,
+72,Illinois,gamma,77,6308,89078.0,6.83,-30.73,11.55,7690.8,
+73,Illinois,mob adj gamma,77,6308,88393.0,9.89,-43.01,8.72,7568.06,0.91
+74,Illinois,skewed gaussian,77,6308,89263.0,178.02,2.26,14.58,43.33,
+75,Illinois,mob adj skewed gaussian,77,6308,88522.0,195.98,1.97,14.07,38.95,0.94
+76,New Hampshire,gamma,71,320,1579.0,34.39,-121.95,5.07,436.55,
+77,New Hampshire,mob adj gamma,71,320,1572.0,127.58,-293.03,2.76,566.15,-0.66
+78,New Hampshire,skewed gaussian,71,320,1578.0,9.27,2.59,20.16,52.02,
+79,New Hampshire,mob adj skewed gaussian,71,320,1560.0,11.09,-41.74,69.41,36.24,-0.85
+80,North Dakota,gamma,55,65,85.0,4.41,-29.46,21.45,139.13,
+81,North Dakota,mob adj gamma,55,65,85.0,3.91,-26.83,26.43,170.66,-0.23
+82,North Dakota,skewed gaussian,55,65,85.0,1.7,677.75,7.16,9418.93,
+83,North Dakota,mob adj skewed gaussian,55,65,84.0,1.78,1725.04,8.29,24911.55,-0.16
+84,Nebraska,gamma,66,215,1477.0,1.56,-0.69,68.97,517.84,
+85,Nebraska,mob adj gamma,66,215,1470.0,1.45,-0.67,4412.17,158370.24,-1.25
+86,Nebraska,skewed gaussian,66,215,1458.0,4.92,-192.86,63.2,53.15,
+87,Nebraska,mob adj skewed gaussian,66,215,1471.0,4.51,9892.94,5.85,38251.69,-0.33
+88,Missouri,gamma,76,885,1718.0,20.01,-70.34,5.1,965.48,
+89,Missouri,mob adj gamma,76,885,1712.0,16.9,-60.52,5.42,927.32,0.45
+90,Missouri,skewed gaussian,76,885,1718.0,31.22,1.57,9.98,31.25,
+91,Missouri,mob adj skewed gaussian,76,885,1712.0,30.43,1.64,9.28,30.86,0.44
+92,Wisconsin,gamma,75,692,1793.0,0.95,0.0,362.09,3270.9,
+93,Wisconsin,mob adj gamma,75,692,1792.0,0.97,0.0,176.39,1773.05,0.25
+94,Wisconsin,skewed gaussian,75,692,1862.0,12.66,-732.79,109.83,42452.66,
+95,Wisconsin,mob adj skewed gaussian,75,692,1800.0,12.46,44564.35,0.0,76.61,0.23
+96,Hawaii,gamma,63,17,6.0,0.97,9.0,2.99,3.34,
+97,Hawaii,mob adj gamma,63,17,6.0,6.85,3.1,1.0,458.63,2.98
+98,Hawaii,skewed gaussian,63,17,12.0,0.0,10.0,33.0,1.38,
+99,Hawaii,mob adj skewed gaussian,63,17,7.0,7.63,46.77,13.02,0.43,-10.74
+100,Louisiana,gamma,80,3014,26558.0,2.26,-3.95,17.05,3140.38,
+101,Louisiana,mob adj gamma,80,3014,26548.0,2.22,-4.16,17.93,2975.2,-0.6
+102,Louisiana,skewed gaussian,80,3014,26640.0,85.63,4.85,3.16,36.57,
+103,Louisiana,mob adj skewed gaussian,80,3014,26579.0,69.85,4.91,2.46,39.64,-1.44
+104,Michigan,gamma,82,6016,90588.0,3.08,-2.58,11.57,6095.93,
+105,Michigan,mob adj gamma,82,6016,89662.0,2.82,-1.9,13.1,6340.88,-0.51
+106,Michigan,skewed gaussian,82,6016,90708.0,199.14,4.53,8.35,30.53,
+107,Michigan,mob adj skewed gaussian,82,6016,89056.0,190.81,5.14,8.14,33.55,-0.68
+108,Indiana,gamma,78,2422,51050.0,6.32,-21.93,10.18,2682.91,
+109,Indiana,mob adj gamma,78,2422,51050.0,6.28,-21.79,10.23,2691.55,-0.01
+110,Indiana,skewed gaussian,78,2422,51045.0,72.23,2.45,13.54,37.28,
+111,Indiana,mob adj skewed gaussian,78,2422,51045.0,72.22,-2.45,13.54,-37.27,0.0
+112,Grand Princess,gamma,0,0,,,,,,
+113,Grand Princess,mob adj gamma,0,0,,,,,,
+114,Grand Princess,skewed gaussian,0,0,,,,,,
+115,Grand Princess,mob adj skewed gaussian,0,0,,,,,,
+116,Virgin Islands,gamma,0,0,,,,,,
+117,Virgin Islands,mob adj gamma,0,0,,,,,,
+118,Virgin Islands,skewed gaussian,0,0,,,,,,
+119,Virgin Islands,mob adj skewed gaussian,0,0,,,,,,
+120,Iowa,gamma,69,652,5922.0,1.51,46.29,9.16,253.1,
+121,Iowa,mob adj gamma,69,652,7875.0,1.06,64.0,2.19,8.91,3.98
+122,Iowa,skewed gaussian,69,652,1414.0,22.82,-2.24,59.37,30.43,
+123,Iowa,mob adj skewed gaussian,69,652,1412.0,20.39,-2.47,59.08,31.27,0.28
+124,Oregon,gamma,79,176,299.0,1.68,-0.54,26.25,188.83,
+125,Oregon,mob adj gamma,79,176,299.0,1.68,-0.55,26.42,189.27,-0.05
+126,Oregon,skewed gaussian,79,176,298.0,4.1,8.89,3.91,43.79,
+127,Oregon,mob adj skewed gaussian,79,176,298.0,4.09,8.87,3.9,44.02,-0.05
+128,Puerto Rico,gamma,0,0,,,,,,
+129,Puerto Rico,mob adj gamma,0,0,,,,,,
+130,Puerto Rico,skewed gaussian,0,0,,,,,,
+131,Puerto Rico,mob adj skewed gaussian,0,0,,,,,,
+132,Arkansas,gamma,70,179,522.0,1.04,57.0,8.81,58.52,
+133,Arkansas,mob adj gamma,70,179,345.0,0.55,4.0,98.53,-2.83,-703.33
+134,Arkansas,skewed gaussian,70,179,293.0,1295.23,1.16,986.04,499.83,
+135,Arkansas,mob adj skewed gaussian,70,179,295.0,2.54,52289.2,1.68,99893.94,1.16
+136,Maine,gamma,67,100,109.0,1.21,-1.22,41.98,117.45,
+137,Maine,mob adj gamma,67,100,102.0,0.72,5.26,55.45,96.17,1.75
+138,Maine,skewed gaussian,67,100,191.0,1.96,24924.78,39.0,17.57,
+139,Maine,mob adj skewed gaussian,67,100,106.0,1.83,-4212.07,59.4,8304.53,-0.17
+140,Guam,gamma,0,0,,,,,,
+141,Guam,mob adj gamma,0,0,,,,,,
+142,Guam,skewed gaussian,0,0,,,,,,
+143,Guam,mob adj skewed gaussian,0,0,,,,,,
+144,Montana,gamma,67,19,11.0,26.39,11.02,0.06,6.76,
+145,Montana,mob adj gamma,67,19,11.0,29.15,10.0,0.09,12.71,11.05
+146,Montana,skewed gaussian,67,19,10.0,1.99,-9528907.22,14.0,4.23,
+147,Montana,mob adj skewed gaussian,67,19,11.0,9.45,-1.87,12.75,0.35,-40.34
+148,West Virginia,gamma,64,88,128.0,1.21,-0.07,31.03,99.89,
+149,West Virginia,mob adj gamma,64,88,127.0,1.35,-0.27,21.13,91.99,1.61
+150,West Virginia,skewed gaussian,64,88,129.0,2.56,11.63,-0.51,35.76,
+151,West Virginia,mob adj skewed gaussian,64,88,128.0,2.87,9.84,-0.15,31.09,1.25
+152,New Mexico,gamma,69,435,655.0,2.94,-5.88,19.79,576.73,
+153,New Mexico,mob adj gamma,69,435,654.0,2.77,-4.36,18.94,561.6,1.04
+154,New Mexico,skewed gaussian,69,435,655.0,11.63,4.03,11.18,49.32,
+155,New Mexico,mob adj skewed gaussian,69,435,655.0,11.96,3.97,10.65,46.95,0.5
+156,Maryland,gamma,75,2939,44826.0,2.88,-2.7,17.4,3480.95,
+157,Maryland,mob adj gamma,75,2939,44725.0,3.35,-3.72,13.59,3172.9,0.86
+158,Maryland,skewed gaussian,75,2939,44426.0,76.98,5.87,11.13,45.29,
+159,Maryland,mob adj skewed gaussian,75,2939,44383.0,81.8,4.99,11.46,39.33,0.62
+160,Connecticut,gamma,76,4201,54023.0,3.26,-3.89,11.59,4332.16,
+161,Connecticut,mob adj gamma,76,4201,53872.0,3.03,-3.31,12.81,4466.67,-0.51
+162,Connecticut,skewed gaussian,76,4201,53078.0,136.7,4.61,8.52,31.55,
+163,Connecticut,mob adj skewed gaussian,76,4201,52615.0,128.63,-5.52,8.27,-35.71,-0.93
+164,Nevada,gamma,78,463,2611.0,2.68,-13.5,20.95,558.98,
+165,Nevada,mob adj gamma,78,463,2575.0,3.09,-7.69,12.55,1441.91,3.43
+166,Nevada,skewed gaussian,78,463,2612.0,11.59,3.39,-0.12,48.9,
+167,Nevada,mob adj skewed gaussian,78,463,2578.0,41.89,3.76,3.99,33.27,3.36
+168,Massachusetts,gamma,74,7624,178660.0,3.2,-3.28,12.56,8013.63,
+169,Massachusetts,mob adj gamma,74,7624,178238.0,3.4,-3.68,11.46,8033.3,0.54
+170,Massachusetts,skewed gaussian,74,7624,176093.0,236.78,4.56,9.7,33.64,
+171,Massachusetts,mob adj skewed gaussian,74,7624,175914.0,246.99,4.36,9.8,32.28,0.36
+172,District of Columbia,gamma,73,515,711.0,5.43,-13.76,9.21,538.34,
+173,District of Columbia,mob adj gamma,73,515,711.0,5.4,-13.76,9.29,517.87,-0.13
+174,District of Columbia,skewed gaussian,73,515,709.0,16.72,2.98,11.13,32.37,
+175,District of Columbia,mob adj skewed gaussian,73,515,709.0,16.01,-2.99,11.11,-32.54,-0.13
+176,Mississippi,gamma,75,891,9899.0,1.06,54.0,18.6,411.88,
+177,Mississippi,mob adj gamma,75,891,12525.0,1.1,67.0,3.7,91.2,0.53
+178,Mississippi,skewed gaussian,75,891,2562.0,24.31,-2.85,70.61,43.74,
+179,Mississippi,mob adj skewed gaussian,75,891,2540.0,27.14,-21.61,72.85,39.49,-2.47
+180,Washington,gamma,94,1217,4391.0,2.38,-1.26,20.17,1277.46,
+181,Washington,mob adj gamma,94,1217,4235.0,1.63,1.86,33.76,1477.1,-1.41
+182,Washington,skewed gaussian,94,1217,4328.0,28.08,5.82,9.37,44.73,
+183,Washington,mob adj skewed gaussian,94,1217,4195.0,26.13,7.74,6.94,52.67,-1.26
+184,New Jersey,gamma,84,12659,428276.0,2.97,1.69,13.22,13209.12,
+185,New Jersey,mob adj gamma,84,12659,427754.0,3.34,0.59,11.75,13397.18,0.29
+186,New Jersey,skewed gaussian,84,12659,429661.0,386.35,4.69,13.22,33.94,
+187,New Jersey,mob adj skewed gaussian,84,12659,429613.0,378.07,-4.84,13.07,-34.53,-0.09
+188,South Dakota,gamma,83,75,146.0,1.23,32.86,38.04,100.0,
+189,South Dakota,mob adj gamma,83,75,140.0,0.84,35.0,49.72,63.75,1.25
+190,South Dakota,skewed gaussian,83,75,143.0,2.15,1671134.17,35.0,38.13,
+191,South Dakota,mob adj skewed gaussian,83,75,143.0,2.02,2237247.58,35.0,34.27,0.28
+192,Arizona,gamma,73,1191,10357.0,8.92,-64.63,14.81,2087.7,
+193,Arizona,mob adj gamma,73,1191,10260.0,117.25,-361.97,3.63,1574.39,-3.27
+194,Arizona,skewed gaussian,73,1191,10111.0,26.72,-272.93,71.75,52.07,
+195,Arizona,mob adj skewed gaussian,73,1191,9903.0,20.52,-12404.21,72.0,43.84,-4.47
+196,Alabama,gamma,69,773,3652.0,6.37,-55.0,16.72,1179.92,
+197,Alabama,mob adj gamma,69,773,3648.0,2.87,-20.93,25.36,1063.54,1.07
+198,Alabama,skewed gaussian,69,773,3650.0,17.86,3.3,1.45,69.9,
+199,Alabama,mob adj skewed gaussian,69,773,3523.0,18.56,-2677.63,66.99,54.53,-1.4
+200,Colorado,gamma,82,1598,20644.0,6.05,-22.65,11.06,1789.77,
+201,Colorado,mob adj gamma,82,1598,19800.0,1.9,-4.89,102.05,7724.95,-3.23
+202,Colorado,skewed gaussian,82,1598,20650.0,43.53,-2.95,12.42,-41.45,
+203,Colorado,mob adj skewed gaussian,82,1598,19839.0,34.3,-5221.87,13.38,-107693.49,-3.13
+204,Idaho,gamma,38,72,103.0,0.98,2.0,13.9,48.67,
+205,Idaho,mob adj gamma,38,72,106.0,0.0,-0.0,4.49,13894.43,25.61
+206,Idaho,skewed gaussian,38,72,96.0,12.25,-0.01,-25.5,27.83,
+207,Idaho,mob adj skewed gaussian,38,72,95.0,3.83,30.47,-0.21,20.37,-1.55
+208,Rhode Island,gamma,66,833,3291.0,1.44,0.0,49.08,1369.7,
+209,Rhode Island,mob adj gamma,66,833,10002.0,1.03,45.0,11.74,502.49,-0.99
+210,Rhode Island,skewed gaussian,66,833,3195.0,19.65,-7.42,60.04,59.76,
+211,Rhode Island,mob adj skewed gaussian,66,833,3094.0,24.53,-269.49,63.43,47.69,-0.88
+212,California,gamma,90,5099,50619.0,2.24,4.73,36.5,8299.31,
+213,California,mob adj gamma,90,5099,50077.0,1.89,4.67,67.01,8611.58,-2.91
+214,California,skewed gaussian,90,5099,49306.0,98.06,10.41,18.88,98.4,
+215,California,mob adj skewed gaussian,90,5099,49015.0,67.48,12528.33,17.81,122908.07,-1.9
+216,Utah,gamma,72,139,311.0,4.01,-36.86,28.05,266.76,
+217,Utah,mob adj gamma,72,139,310.0,76.17,-342.76,5.54,440.52,-1.02
+218,Utah,skewed gaussian,72,139,311.0,2.88,5.69,4.94,119.46,
+219,Utah,mob adj skewed gaussian,72,139,300.0,4.93,-2072607.7,70.0,40.46,-1.03
+220,Minnesota,gamma,73,1329,3597.0,2.78,-3.16,25.85,2139.87,
+221,Minnesota,mob adj gamma,73,1329,3567.0,2.86,-3.71,28.07,2715.87,-0.49
+222,Minnesota,skewed gaussian,73,1329,3538.0,30.05,9.97,14.09,92.17,
+223,Minnesota,mob adj skewed gaussian,73,1329,3506.0,33.59,29.18,15.6,295.91,-0.56
