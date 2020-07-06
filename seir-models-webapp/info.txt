@@ -1,0 +1,11 @@
+pip install --upgrade pip
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+export FLASK_APP=application.py
+export FLASK_DEBUG=1
+python3 -m flask run --host=0.0.0.0
+az account set --subscription "Azure subscription 1"
+az login
+az webapp up --sku F1 -n seir-models-webapp
+
